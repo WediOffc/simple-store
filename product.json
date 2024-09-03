@@ -3,54 +3,54 @@
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 2.000",
-        "description": "Description for Product 1"
+        "description": "Ram 1gb - Cpu 60%"
     },
     {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 3.000",
-        "description": "Description for Product 2"
+        "description": "Ram 2gb - Cpu 80%"
     },
         {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 4.000",
-        "description": "Description for Product 3"
+        "description": "Ram 3gb - Cpu 100%"
     },
         {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 5.000",
-        "description": "Description for Product 4"
+        "description": "Ram 4gb - Cpu 120%"
     },
         {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 6.000",
-        "description": "Description for Product 5"
+        "description": "Ram 5gb - Cpu 140%"
     },
     {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 7.000",
-        "description": "Description for Product 6"
+        "description": "Ram 6gb - Cpu 180%"
     },
         {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 8.000",
-        "description": "Description for Product 7"
+        "description": "Ram 7gb - Cpu 200%"
     },
         {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 9.000",
-        "description": "Description for Product 8"
+        "description": "Ram 8gb - Cpu 220%"
     },
      {
         "image": "https://telegra.ph/file/a680c107bc3daf833c882.jpg",
         "title": "Panel Pterodactyl",
         "price": "Rp 10.000",
-        "description": "Description for Product 9"
+        "description": "Ram 9gb - Cpu 240%"
     }
 ]
