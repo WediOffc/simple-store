@@ -1,45 +1,45 @@
 [
     {
-        "image": "https://telegra.ph/file/8d482bac986d2227f3dcc.jpg",
-        "title": "Reseller Panel Pterodactyl Server Private",
-        "price": "Rp15.000",
-        "stock": "Slot Terbatas",
-        "description": "Ram 8 | Core 4"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 1",
+        "price": "$10.00",
+        "stock": 10,
+        "description": "Description for Product 1"
     },
     {
-        "image": "https://telegra.ph/file/61dc23eb3e41ff181ffdb.jpg",
-        "title": "Panel Pterodactyl Server Private Ram 1GB",
-        "price": "Rp2.000",
-        "stock": "Ready Banyak",
-        "description": "Memory 1125 | Disk 1125 | Cpu 40"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 2",
+        "price": "$20.00",
+        "stock": 5,
+        "description": "Description for Product 2"
     },
         {
-        "image": "https://telegra.ph/file/971021bfab64eb6a759cb.jpg",
-        "title": "Panel Pterodactyl Server Private Ram 2GB",
-        "price": "Rp3.000",
-        "stock": "Ready Banyak",
-        "description": "Memory 2125 | Disk 2125 | Cpu 60"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 3",
+        "price": "$20.00",
+        "stock": 5,
+        "description": "Description for Product 3"
     },
         {
-        "image": "https://telegra.ph/file/01fd8e2623e8bb6e291dd.jpg",
-        "title": "Panel Pterodactyl Server Private Ram 3GB",
-        "price": "Rp4.000",
-        "stock": "Ready Banyak",
-        "description": "Memory 3125 | Disk 3125 | Cpu 80"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 4",
+        "price": "$20.00",
+        "stock": 5,
+        "description": "Description for Product 4"
     },
         {
-        "image": "https://telegra.ph/file/88745b8ffc5348057be5d.jpg",
-        "title": "Panel Pterodactyl Server Private Ram 4GB",
-        "price": "Rp5.000",
-        "stock": "Ready Banyak",
-        "description": "4125 | Disk 4125 | Cpu 100"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 5",
+        "price": "$10.00",
+        "stock": 10,
+        "description": "Description for Product 5"
     },
     {
-        "image": "https://telegra.ph/file/579cb9872503953b18f06.jpg",
-        "title": "Panel Pterodactyl Server Private Ram 5GB",
-        "price": "Rp6.000",
-        "stock": "Ready Banyak",
-        "description": "5125 | Disk 5125 | Cpu 120"
+        "image": "https://via.placeholder.com/150",
+        "title": "Product 6",
+        "price": "$20.00",
+        "stock": 5,
+        "description": "Description for Product 6"
     },
         {
         "image": "https://via.placeholder.com/150",
