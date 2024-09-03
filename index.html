@@ -41,7 +41,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand ms-4" href="https://profil-diioffc.vercel.app"><i class="fa-solid fa-shop"></i> DiiOffc - Store</a>
+            <a class="navbar-brand ms-4" href="https://chat.whatsapp.com/L8mlW4bqHkQ47z9j5IMEZK"><i class="fa-solid fa-shop"></i> DiiOffc - Store</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <i class="fa-solid fa-cart-shopping"></i>
             </button>
@@ -184,7 +184,7 @@
                     // Create WhatsApp message
                     let message = 'Halo, saya ingin membeli:\n\n';
                     cart.forEach(item => {
-                        message += `${item.title}\nHarga: ${item.price}\nJumlah: ${item.quantity}\n\n`;
+                        message += `${item.title}\nHarga: ${item.price}\nJumlah: ${item.quantity}\`;
                     });
                     const whatsappURL = `https://wa.me/6282131140856?text=${encodeURIComponent(message)}`;
                     window.location.href = whatsappURL;
@@ -217,7 +217,7 @@
 
             let message = 'Halo, saya ingin membeli:\n\n';
             cart.forEach(item => {
-                message += `${item.title}\nHarga: ${item.price}\nJumlah: ${item.quantity}\n\n`;
+                message += `${item.title}\nHarga: ${item.price}\nJumlah: ${item.quantity}`;
             });
             const whatsappURL = `https://wa.me/6282131140856?text=${encodeURIComponent(message)}`;
             window.location.href = whatsappURL;
